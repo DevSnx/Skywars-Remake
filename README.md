@@ -1,6 +1,6 @@
 # Skywars-Remake
 
-#Todo
+# Todo
 + Multi Language
 + Team Modes, Duo, Solo, Trios, Teams
 + Spectator Mode

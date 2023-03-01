@@ -13,3 +13,5 @@ A Remake from my Skywars Plugin from 2019
 + setup gui
 + nice wiki and setup page
 + Tier I, II & III Chests
++ Kits
++ Badges
